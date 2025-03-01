@@ -1,0 +1,6 @@
+file kedua ini adalah rincian materi Android Developer
+1. Dart
+2. Flutter
+3. Backend Laravel
+4. FrontEnd Flutter
+5. Desaign UI/UX Figma
